@@ -1,0 +1,6 @@
+This is my newer sample file.  I will output this to the output file.
+
+^^this is an empty line, and should be.  
+This is a new line.  
+
+Goodbye!
